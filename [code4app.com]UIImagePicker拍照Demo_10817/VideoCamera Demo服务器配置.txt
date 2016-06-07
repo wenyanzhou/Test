@@ -1,0 +1,6 @@
+VideoCamera Demo服务器配置
+
+简易ftp 服务器，使用Home Ftp Server 搭建，使用全默认设置
+用户名，密码，IP，Port自行配置。
+
+流媒体服务器，使用ApacheTomCat，使用Mac下MediaFilesegementer 切割媒体文件，获取所有片段和片段目录放入服务器资源文件下。关于网页部署不做赘述。
